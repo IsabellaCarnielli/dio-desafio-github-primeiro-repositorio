@@ -1,0 +1,4 @@
+Git Status: se tiver um documento novo, ele entende que ha algo novo.
+Git add . ou git add -A para dizer que temos a intensão de subir esse arquivo, mas ele ainda não está lá no Github.
+Git commit -m "inclusão instruções curso git-github"
+Git push origin main (envia todos os commits para a nuvem)
